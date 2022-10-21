@@ -1,2 +1,2 @@
 # R-language
-Some sample codes written in R
+Some codes written in R
